@@ -22,7 +22,7 @@
 ![Reasoning](./assets/screenshots/reasoning.png)
 - **AI Refinement Flow**  
   Refracto interacts with developers to clarify ambiguous prompts, enabling iterative refinement and question confirmation.
-
+![Reasoning](./assets/screenshots/screenshot.png)
 - **GitHub Integration**  
   Automatically commit generated code to specified repositories, supporting branch-based workflows.
 
