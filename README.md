@@ -9,17 +9,17 @@
 ---
 
 ## 🚀 Features
-![OVerall](.assets/screenshots/overall.png)
+![OVerall](./assets/screenshots/overall.png)
 - **Ticket-Driven Development**  
   Create tickets with plain-language prompts and let Refracto generate backend implementations in Java for SAP CAP.
 
-![Generated Tests](.assets/screenshots/editor.png)
+![Generated Tests](./assets/screenshots/editor.png)
 - **Code + Tests + Reasoning**  
   Each response includes:
   - Complete Java code blocks
   - Generated test cases
   - Agent reasoning for both code and test design
-![Reasoning](.assets/screenshots/reasoning.png)
+![Reasoning](./assets/screenshots/reasoning.png)
 - **AI Refinement Flow**  
   Refracto interacts with developers to clarify ambiguous prompts, enabling iterative refinement and question confirmation.
 
